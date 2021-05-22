@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kickbox | For Kids</title>
+    <description>Кикбох для вас и вашего ребенка</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 May 2021 19:01:55 +0200</pubDate>
+    <lastBuildDate>Sat, 22 May 2021 19:01:55 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>Внешние ресурсы</title>
+        <description>&lt;p&gt;Просто картинка&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 May 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/why-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-you/</guid>
+        
+        <category>kickbox</category>
+        
+        <category>youtube</category>
+      </item>
+    
+      <item>
+        <title>Добро пожаловать на online-тренировки!</title>
+        <description>&lt;p&gt;Здесь будет размещены наши адреса и условия тренировок.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/welcome-to-kickbox/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-to-kickbox/</guid>
+        
+        <category>welcome</category>
+        
+        <category>kickbox</category>
+        
+        <category>welcome</category>
+      </item>
+    
+  </channel>
+</rss>
