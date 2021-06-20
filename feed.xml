@@ -3,10 +3,10 @@
   <channel>
     <title>Kickbox | For Kids</title>
     <description>Кикбох для вас и вашего ребенка</description>
-    <link>https://alnat73.github.io/kickbox-kid/</link>
-    <atom:link href="https://alnat73.github.io/kickbox-kid/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jun 2021 20:22:11 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Jun 2021 20:22:11 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Jun 2021 20:51:12 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Jun 2021 20:51:12 +0200</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 May 2021 00:00:00 +0200</pubDate>
-        <link>https://alnat73.github.io/kickbox-kid/why-you/</link>
-        <guid isPermaLink="true">https://alnat73.github.io/kickbox-kid/why-you/</guid>
+        <link>http://localhost:4000/why-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-you/</guid>
         
         <category>kickbox</category>
         
@@ -29,8 +29,8 @@
         <description>&lt;p&gt;Здесь будет размещены наши адреса и условия тренировок.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
-        <link>https://alnat73.github.io/kickbox-kid/welcome-to-kickbox/</link>
-        <guid isPermaLink="true">https://alnat73.github.io/kickbox-kid/welcome-to-kickbox/</guid>
+        <link>http://localhost:4000/welcome-to-kickbox/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-to-kickbox/</guid>
         
         <category>welcome</category>
         
